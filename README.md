@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Danilo 👋
 
-<!--
-**DanD1511/DanD1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Python developer and electrical engineer passionate about Development and automation. I enjoy acepting new challenges. I am always eager to learn new things and collaborate on exciting projects.
+
+## 🛠️ Languages and Tools
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code)
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true)
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourprofile)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram)](https://instagram.com/yourprofile)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
