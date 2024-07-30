@@ -20,7 +20,7 @@ I am a Python developer and electrical engineer passionate about Development and
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanD1511&show_icons=true&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanD1511&layout=compact&hide_border=true)
 
 ## 📫 Connect with Me
