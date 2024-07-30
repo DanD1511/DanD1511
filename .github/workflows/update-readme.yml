@@ -21,7 +21,10 @@ jobs:
           TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           curl -H "Authorization: token $TOKEN" \
-          https://github-readme-stats.vercel.app/api?username=DanD1511&show_icons=true&hide_border=true&count_private=true&include_all_commits=true > README.md
+          https://github-readme-stats.vercel.app/api?username=DanD1511&show_icons=true&hide_border=true&count_private=true&include_all_commits=true -o README.md
+      - name: Debugging Output
+        run: |
+          cat README.md  # Output the content of README.md to verify it's not empty
       - name: Configure Git
         run: |
           git config --global user.name 'github-actions[bot]'
