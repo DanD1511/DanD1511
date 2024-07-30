@@ -14,16 +14,16 @@ jobs:
       - uses: actions/checkout@v2
       - name: Generate GitHub Stats
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           curl -H "Authorization: token $TOKEN" \
           https://github-readme-stats.vercel.app/api?username=DanD1511&show_icons=true&hide_border=true&count_private=true&include_all_commits=true > README.md
       - name: Commit and Push
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
           git commit -m 'Update README with GitHub Stats'
-          git push
+          git push https://$TOKEN@github.com/DanD1511/DanD1511.git HEAD:main
