@@ -9,7 +9,7 @@ I am a Python developer and electrical engineer passionate about Development and
 ## 🛠️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
