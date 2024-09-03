@@ -30,7 +30,7 @@ I am a Python developer and electrical engineer passionate about Development and
 ## GitHub Analytics
 <p align="center">
 <a href="https://github.com/GGomezMorales">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GGomezMorales&show_icons=true&theme=onedark&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GGomezMorales&layout=compact&langs_count=6&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DanD1511&show_icons=true&theme=onedark&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DanD1511&layout=compact&langs_count=6&theme=onedark"/>
 </a>
 </p>
