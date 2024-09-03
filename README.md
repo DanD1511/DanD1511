@@ -25,3 +25,12 @@ I am a Python developer and electrical engineer passionate about Development and
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourprofile)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram)](https://instagram.com/yourprofile)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+
+
+## GitHub Analytics
+<p align="center">
+<a href="https://github.com/GGomezMorales">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GGomezMorales&show_icons=true&theme=onedark&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GGomezMorales&layout=compact&langs_count=6&theme=onedark"/>
+</a>
+</p>
