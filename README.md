@@ -17,7 +17,6 @@ I am a Python developer and electrical engineer passionate about Development and
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code)
 
 ## 📫 Connect with Me
 
