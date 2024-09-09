@@ -1,6 +1,4 @@
-# Hi there, I'm Danilo 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=DanD1511&color=blue)
+# Hi there, I'm Danilo Da Cunha 👋
 
 ## About Me
 
