@@ -1,6 +1,6 @@
 # Hi there, I'm Danilo 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=DanD1511&color=blue)
 
 ## About Me
 
