@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Python developer and electrical engineer passionate about Development and automation. I enjoy acepting new challenges. I am always eager to learn new things and collaborate on exciting projects.
+I am a Python and C# developer and electrical engineer passionate about Development and automation. I enjoy acepting new challenges. I am always eager to learn new things and collaborate on exciting projects.
 
 ## 🛠️ Languages and Tools
 
