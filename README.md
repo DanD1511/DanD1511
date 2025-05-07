@@ -23,6 +23,5 @@ I am a Python and C# developer and electrical engineer passionate about Developm
 <p align="center">
 <a href="https://github.com/DanD1511">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DanD1511&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DanD1511&layout=compact&langs_count=6&theme=neon&count_private=true"/>
 </a>
 </p>
