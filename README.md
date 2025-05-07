@@ -8,7 +8,7 @@ I am a Python and C# developer and electrical engineer passionate about Developm
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
-![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp)
+![CSharp](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
