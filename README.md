@@ -10,6 +10,7 @@ I am a Python and C# developer and electrical engineer passionate about Developm
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
 ![CSharp](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![.NET](https://img.shields.io/badge/-.Net-black?style=flat-square&logo=.Net)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 ## 📫 Connect with Me
